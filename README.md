@@ -1,9 +1,9 @@
 # networkScan
 ---
-### port scan program
+### 1. port scan program
  
 --- 
-### ip scan program
+### 2. ip scan program
  
 ---
 
